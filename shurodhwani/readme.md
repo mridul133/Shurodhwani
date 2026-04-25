@@ -1,3 +1,8 @@
+ - A web app for music lovers where users can upload musics or albums, rate musics, comment on musics, vote the comments, browse all available artists, genres, albums, can search anything and can make custom playlists.
+ - The system recommends musics to the users based on their interest zones.
+
+
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
